@@ -1,0 +1,14 @@
+======== Aqui será minha jornada no mundo linnux =======
+
+- Dificuldades em montar as partições no Windows no linux - 
+
+  R=> 1- Você vai em disco 
+      2- Seleciona do disco onde esta as ou a patição 
+      3- Clique na configuração da partição
+      4- No menu que vai aparecer clique na opção Editar opções de montagem...
+
+      5- Desmarque a opção automática de montagem 
+      6- No campo dos parâmetros de montagem da unidade, adicione uma vírgula o comando “remove_hiberfile“. Para 
+         confirmar tudo, clique no botão “OK”.
+      7- Pronto! Com essas mudanças, “possivelmente” você não verá mais aquela mensagem de erro, e poderá utilizar a
+         partição do Windows sem problemas, usando o Nautilus ou qualquer outro gerenciador de arquivo do Linux.
